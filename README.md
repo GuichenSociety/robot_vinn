@@ -47,8 +47,8 @@ python main.py
 ```
 运行后，页面1是可以直接控制机械臂；页面2是自己来手动改变机械臂的形态来记录数据和摄像头的图像，要保存图像，要把摄像头开始录制才行；页面3是修改舵机的id，这个很重要，我是用了5个舵机，从下到上id为1到5.
 
-<img src="images/9.png" height = 200>
-<img src="images/10.png" height = 200>
+<img src="images/9.png">
+<img src="images/10.png">
 
 数据集的结构是
 + datasets
