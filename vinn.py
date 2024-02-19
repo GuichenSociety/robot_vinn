@@ -74,7 +74,7 @@ class initial_stage:
         return pred_action
 
     def start_execution(self):
-        k = 2
+        k = 5
         img_count = 0
         dataset = MotionDataset(self.params, self.model)
         while self.cap.isOpened():
